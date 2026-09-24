@@ -1,0 +1,1 @@
+# proj_IA7N_deteccao_de_campanhas_em_grafos
