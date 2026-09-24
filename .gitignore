@@ -1,0 +1,26 @@
+# Materiais fornecidos pelo professor e modelos locais
+*.zip
+*.pdf
+*.docx
+modelosparapublicaodeartigos/
+
+# Os dois arquivos finais da entrega devem permanecer versionáveis
+!artigo/*.pdf
+!rubrica/*.docx
+
+# Dados brutos do LEN são grandes demais para o GitHub
+dados/brutos/
+small_encoder_final/
+*.tar
+
+# Arquivos locais do ambiente Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Arquivos temporários de geração e verificação
+tmp/
+artigo/qa*/
+rubrica/qa*/
+artigo/*.docx
