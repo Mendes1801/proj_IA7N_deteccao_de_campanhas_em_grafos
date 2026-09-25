@@ -26,6 +26,7 @@ small_encoder_final/
 __pycache__/
 *.py[cod]
 .pytest_cache/
+scripts/tests/
 
 # Arquivos temporários de geração e verificação
 tmp/

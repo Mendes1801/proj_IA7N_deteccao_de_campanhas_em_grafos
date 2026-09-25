@@ -3,8 +3,8 @@
 #              Matheus Teles Magalhães | 10427410 | 10427410@mackenzista.com.br
 # Conteúdo: geração da tabela de características para os estados parciais do LEN.
 # Histórico de alterações:
-# 21/09/2026 | Gabriel Erick Mendes | Criação do pipeline temporal.
-# 23/09/2026 | Gabriel Erick Mendes | Ajuste da exportação dos tópicos com hashtag.
+# 21/09/2026 | Grupo | Criação do pipeline temporal.
+# 23/09/2026 | Grupo | Ajuste da exportação dos tópicos com hashtag.
 # 24/09/2026 | Grupo | Revisão e preparação para a entrega da disciplina.
 
 """Gera uma tabela de features para estados parciais dos grafos do LEN."""

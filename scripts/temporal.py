@@ -3,7 +3,7 @@
 #              Matheus Teles Magalhães | 10427410 | 10427410@mackenzista.com.br
 # Conteúdo: leitura das arestas temporais e reconstrução de estados parciais do LEN.
 # Histórico de alterações:
-# 21/09/2026 | Gabriel Erick Mendes | Criação da reconstrução por tempo e por arestas.
+# 21/09/2026 | Grupo | Criação da reconstrução por tempo e por arestas.
 # 24/09/2026 | Grupo | Revisão e preparação para a entrega da disciplina.
 
 """Reconstrução de estados parciais dos grafos temporais do LEN.

@@ -3,7 +3,7 @@
 #              Matheus Teles Magalhães | 10427410 | 10427410@mackenzista.com.br
 # Conteúdo: leitura incremental dos grafos JSON do LEN e métricas da EDA inicial.
 # Histórico de alterações:
-# 09/09/2026 | Gabriel Erick Mendes | Criação do leitor e das métricas iniciais.
+# 09/09/2026 | Grupo | Criação do leitor e das métricas iniciais.
 # 24/09/2026 | Grupo | Revisão e preparação para a entrega da disciplina.
 
 """Inspeção incremental dos grafos JSON do LEN.

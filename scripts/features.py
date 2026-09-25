@@ -3,7 +3,7 @@
 #              Matheus Teles Magalhães | 10427410 | 10427410@mackenzista.com.br
 # Conteúdo: cálculo de características estruturais e temporais dos grafos parciais.
 # Histórico de alterações:
-# 21/09/2026 | Gabriel Erick Mendes | Criação das características candidatas.
+# 21/09/2026 | Grupo | Criação das características candidatas.
 # 24/09/2026 | Grupo | Revisão e preparação para a entrega da disciplina.
 
 """Características estruturais e temporais de um estado parcial do LEN."""

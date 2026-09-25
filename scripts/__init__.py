@@ -3,7 +3,7 @@
 #              Matheus Teles Magalhães | 10427410 | 10427410@mackenzista.com.br
 # Conteúdo: interface pública das ferramentas de análise exploratória do LEN.
 # Histórico de alterações:
-# 21/09/2026 | Gabriel Erick Mendes | Exportação das funções principais do pacote.
+# 21/09/2026 | Grupo | Exportação das funções principais do pacote.
 # 24/09/2026 | Grupo | Revisão e preparação para a entrega da disciplina.
 
 """Ferramentas para análise exploratória e temporal do dataset LEN."""

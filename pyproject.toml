@@ -21,12 +21,13 @@ dev = ["pytest>=8,<10"]
 notebook = ["jupyterlab>=4.4,<5"]
 
 [project.scripts]
-len-summary = "len_eda.summary:main"
-len-features = "len_eda.pipeline:main"
+len-summary = "scripts.summary:main"
+len-features = "scripts.pipeline:main"
 
 [tool.setuptools.packages.find]
-where = ["src"]
+where = ["."]
+include = ["scripts*"]
 
 [tool.pytest.ini_options]
 addopts = "-q"
-testpaths = ["tests"]
+testpaths = ["scripts/tests"]
