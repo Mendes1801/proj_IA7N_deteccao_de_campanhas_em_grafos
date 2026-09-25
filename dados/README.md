@@ -2,7 +2,11 @@
 
 O projeto utiliza o **Large Engagement Networks (LEN)**, conjunto público de
 redes de engajamento do Twitter disponibilizado por Gopalakrishnan et al.
-(2025): <https://erdemub.github.io/large-engagement-network/>.
+(2025). Os endereços oficiais são:
+
+- repositório e descrição do dataset: <https://github.com/erdemUB/LEN>;
+- página de download indicada pelos autores:
+  <https://erdemub.github.io/large-engagement-network/>.
 
 Cada arquivo JSON representa um tópico. Os nós são usuários e as arestas são
 interações direcionadas, como retuítes, respostas e citações. Os arquivos
